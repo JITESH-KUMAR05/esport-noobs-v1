@@ -18209,12 +18209,12 @@ span.select2-selection.select2-selection--single:focus {
 .cta-area-1 .cta-wrap-bg .cta-thumb {
   position: absolute;
   right: -38%;
-  bottom: 30%;
+  bottom: 0%;
   width: 80%;
 }
 .cta-thumb img {
-  width: 50%;
-  height: 100%;
+  width: 45%;
+  height: 90%;
   object-fit: cover;
   object-position: right;
 }
